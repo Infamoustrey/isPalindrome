@@ -1,0 +1,19 @@
+{
+  "name": "ispalindrome",
+  "version": "1.0.0",
+  "description": "Checks if a string is the same reversed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infamoustrey/isPalindrome.git"
+  },
+  "author": "Trey Foster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Infamoustrey/isPalindrome/issues"
+  },
+  "homepage": "https://github.com/Infamoustrey/isPalindrome#readme"
+}
